@@ -1,0 +1,115 @@
+{
+  "header": {
+    "title": "Ideas-Web",
+    "subtitle": "Transformando ideas en realidad digital.",
+    "image": "./images/logo.png"
+  },
+  "footer": {
+    "infofooter": [
+      {
+          "empresa": "Ideas-Web.",
+          "slogan": "Transformando ideas en realidad digital.",
+          "razonsocial": "Razón social: El nombre de tu empresa S.A.S.",
+          "nit": "NIT: 123456789-0",
+          "dondeestamos": "¿Dónde estamos?",
+          "ubicacion": "Cali, valle,Colombia.",
+          "direccion": "",
+          "correo": "alexander.hurtado7170@gmail.com",
+          "telefono": "Teléfono: +57 3218015089",
+          "redessociales": "Síguenos en nuestras redes sociales:",
+          "facebook": "enlace a Facebook",
+          "twitter": "enlace a x",
+          "instagram": "enlace a Instagram",
+          "linkedin": "enlace a LinkedIn",
+          "youtube": "enlace a YouTube",
+          "tiktok": "enlace a TikTok",
+          "final": "Ideas-Web. Todos los derechos reservados."
+      }
+  ]
+  },
+  "cards": {
+    "title1": "Menu para restaurantes",
+    "image1": "./images/menu_sencillo2.png",
+    "card1": [
+      {
+        "title": "Americano",
+        "product1": "gfhgfhgf",
+        "product2": "",
+        "price": "5.000"
+      },
+      {
+        "title": "Capuchino",
+        "product1": "",
+        "product2": "",
+        "price": "7.000"
+      },
+      {
+        "title": "Cafe moca",
+        "ingredient1": "Cafe con notas achocolatas",        
+        "price": "8.500"
+      },
+      {
+        "title": "Beso de angel late",
+        "ingredient1": "Expreso con crema de whisky y leche",        
+        "price": "10.000"
+      },
+      {
+        "title": "Cafe Irlandés",
+        "ingredient1": "Whisky, crema chantilly y expresso",
+        "price": "10.000"
+      },
+      {
+        "title": "Infusion",
+        "product1": "Jengibre: con tomate de árbol , naranja y hojas de stevia.",
+        "product2": "Frutos rojos: mora , fresa , flor de jamaica, arándanos y hojas de stevia.",
+        "price": "8.500"
+      }
+    ],
+    
+    "title2": "Bebidas frías",
+    "image2": "./images/menu_sencillo1.png",
+    "card2": [
+      {
+        "title": "Iced latte",
+        "ingredient1": "Shot de espresso, hielo y leche",        
+        "price": "10.000"
+      },
+      {
+        "title": "Affogato",
+        "ingredient1": "Combinación perfecta entre un cremoso helado y un espresso",
+        "price": "12.000"
+      },
+      {
+        "title": "Orange Coffee",
+        "ingredient1": "Jugo de naranja, más hielo y shot de espresso",
+        "price": "10.000"
+      },
+      {
+        "title": "Limonada de café",
+        "product1": "Espresso doble con hielo y limón",
+        "product2": "También lo puedes pedir con licor de tequila",
+        "price": "18.000"
+      },
+      {
+        "title": "Té matcha",
+        "ingredient1": "Con leche de coco",
+        "price": "10.000"
+      },
+      {
+        "title": "Sodas saborizadas",
+        "ingredient1": "Maracuyá, lychee, sandía, fresa",
+        "price": "18.000"
+      },
+      {
+        "title": "Milo frío",        
+        "price": "9.000"
+      },
+      {
+        "title": "¿Y si me dejas qué?",
+        "ingredient1": "Espresso, limón y ron",        
+        "price": "16.000"
+      }
+    ]
+   
+  }
+}
